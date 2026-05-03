@@ -1,0 +1,36 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ML model & data files (large binaries)
+*.pkl
+*.h5
+*.joblib
+*.npy
+*.npz
+
+# Dataset files
+*.csv
+
+# Environment & local config
+.env
+settings.local.json
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Claude Code local settings
+.claude/
