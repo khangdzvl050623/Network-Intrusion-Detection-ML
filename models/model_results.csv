@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,Train Time (s)
+Random Forest,0.9873,0.9964,0.9873,0.9914,4.92
+KNN,0.961,0.9801,0.961,0.9691,0.01
+Logistic Regression,0.7623,0.9258,0.7623,0.8245,13.61
+SVM,0.747,0.9219,0.747,0.8102,0.26
+Naive Bayes,0.2793,0.9365,0.2793,0.3844,0.99
